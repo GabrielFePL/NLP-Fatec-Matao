@@ -6,8 +6,8 @@ Fornecer uma base sólida e prática em PLN, capacitando para o desenvolvimento 
 
 ## Conteúdo das Aulas
 
-1. **Fundamentos do Processamento de Linguagem Natural** – conceitos, aplicações e panorama geral. []
-2. **Processamento de Texto e Pré-processamento de Dados** – limpeza, normalização e preparação de dados textuais. []
+1. **Fundamentos do Processamento de Linguagem Natural** – conceitos, aplicações e panorama geral. [x]
+2. **Processamento de Texto e Pré-processamento de Dados** – limpeza, normalização e preparação de dados textuais. [x]
 3. **Extração de Características (Features)** – representação de textos com vetores e embeddings. []
 4. **Análise Sintática e Gramáticas** – parsing, árvores sintáticas e regras gramaticais. []
 5. **Interpretação Semântica** – extração de significado e relações semânticas. []
